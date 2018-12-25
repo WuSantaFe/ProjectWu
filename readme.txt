@@ -6,3 +6,4 @@ git是管理修改不是管理文件
 Creating a new branch is quick.k & simple.
 
 断电
+git checkout -b feature1
