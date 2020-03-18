@@ -4,4 +4,5 @@ Git is free software.
 git是管理修改不是管理文件
 这个是不能添加的句子
 Creating a new branch is quick & simple. 
+bushiba 
 肥嘟嘟
